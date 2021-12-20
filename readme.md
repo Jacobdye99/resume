@@ -1,0 +1,1 @@
+I have made a quick resume creator on npm That you can input items into the object in info.json to create your resume
